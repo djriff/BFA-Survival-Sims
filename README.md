@@ -1,6 +1,6 @@
-# BfA Shadow Priest Sims
+# BfA Survival Hunter Sims
 
-This repo includes scripts and sims for shadow priests.
+This repo includes scripts and sims for survival hunters.
 
 ## Documentation
 All documentation can be found in the [Wiki](https://github.com/djriff/bfa-survival-sims/wiki).
