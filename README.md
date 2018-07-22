@@ -39,11 +39,11 @@ Every sim is run with the top Five builds
 - TBD
 
 ### Stats - Mythic (Percent Stat - Gear Amount)
-- 19.56% Crit - 1048
-- 14.04% Haste - 955
-- 4.27% Versatility - 363
-- 19.00% Mastery - 564
-- 7588 Agility - 4750
+- 21.43% Crit - 823
+- 19.53% Haste - 1309
+- 2.78% Versatility - 236
+- 25.76% Mastery - 548
+- 6131 Agility - 4299
 
 ### Enchants
 - Weapon: TBD
