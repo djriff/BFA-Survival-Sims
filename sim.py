@@ -51,10 +51,11 @@ count = 0
 
 for value in profiles:
     count = count + 1
-    print("Simming {0} out of {1}.".format(count, len(profiles)))
+    
     name = value.replace('simc', 'json')
     name = name.replace('profiles', 'results')
     if name[8:] not in existing:
+        print("Simming {0} out of {1}.".format(count, len(profiles)))
         reportName = args.dir + name[8:-5]
         name = args.dir + name
         value = args.dir + value
